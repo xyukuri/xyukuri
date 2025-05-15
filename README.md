@@ -8,6 +8,6 @@ I am currently in my first year of college, pursuing a **Bachelor of Arts in Com
 
 # 🛠️ Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,,js,nodejs,py,bots,kotlin,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,py,bots,kotlin,visualstudio)](https://skillicons.dev)
 
 [![X](https://img.shields.io/badge/x-logo?style=for-the-badge&logo=x&logoColor=white&color=%23000000)](https://x.com/xyukuri)
