@@ -1,4 +1,4 @@
-# H1 **Welcome!**
+# **Welcome!**
 
 Hi, I'm Yuu — a developer who enjoys building with Python and Java.
 
