@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient&text=👋%20Welcome!%20I'm%20Yuu&fontColor=ffffff&fontSize=50&fontAlign=48&reversal=false&fontAlignY=53)
+#![header](https://capsule-render.vercel.app/api?type=rounded&height=100&color=gradient&text=👋%20Welcome!%20I'm%20Yuu&fontColor=ffffff&fontSize=50&fontAlign=48&reversal=false&fontAlignY=53)
 
 I am currently in my first year of college, pursuing a **Bachelor of Arts in Communication ⌈ BAC ⌋**. An active English and Japanese writer, and a programmer developing Discord bots. Not very skilled at design yet, but continuously learning to improve front-end development skills.
 
