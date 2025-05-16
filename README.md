@@ -1,3 +1,4 @@
+https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=👋%20Welcome!%20I'm%20Yuu&fontColor=black&fontSize=50&fontAlign=50&reversal=false
 # 👋 Welcome! I'm Yuu
 
 I am currently in my first year of college, pursuing a **Bachelor of Arts in Communication ⌈ BAC ⌋**. An active English and Japanese writer, and a programmer developing Discord bots. Not very skilled at design yet, but continuously learning to improve front-end development skills.
