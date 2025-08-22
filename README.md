@@ -2,8 +2,8 @@
 
 I am currently in my first year of college. An active English and Japanese writer, and a programmer developing Discord bots. Not very skilled at design yet, but continuously learning to improve front-end development skills.
 
-📚 Focused on **drama**, **romance**, **comedy**, and **horror genres**.<br>
-⚙️ I code primarily in **Java** and **Python**.<br>
+📚 Focused on **drama**, **romance**, and **comedy**.<br>
+⚙️ I code primarily in **Python**.<br>
 🔎 Exploring the world of **Front-end**.
 
 # 🛠️ Languages and Tools
