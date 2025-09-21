@@ -10,5 +10,7 @@ I am currently in my first year of college. An active English and Japanese write
 
 # [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,py,bots,kotlin,visualstudio)](https://skillicons.dev)
 
-[![X](https://img.shields.io/badge/X-@xyukuri-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xyukuri) [![Discord](https://img.shields.io/badge/discord-xyukuri-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/732523417412304897)
+[![X](https://img.shields.io/badge/X-@xyukuri-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/xyukuri) 
+[![Discord](https://img.shields.io/badge/discord-xyukuri-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/732523417412304897) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Euclid-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euclid-villena-23a295368/) 
 
