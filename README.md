@@ -1,6 +1,6 @@
 # ![header](https://capsule-render.vercel.app/api?type=rounded&height=110&color=gradient&text=👋%20Welcome!%20I'm%20Yuu&fontColor=ffffff&fontSize=50&fontAlign=34&reversal=false&fontAlignY=53&textBg=false&section=header)
 
-I am currently in my first year of college. An active English and Japanese writer, and a programmer developing Discord bots. Not very skilled at design yet, but continuously learning to improve front-end development skills.
+I am currently in my college. An active English and Japanese writer, and a programmer developing Discord Applications, Minecraft plugins, and Web development. Not very skilled at design yet, but continuously learning to improve front-end development skills.
 
 📚 Focused on **drama**, **romance**, and **comedy**.<br>
 ⚙️ I code primarily in **Python**.<br>
