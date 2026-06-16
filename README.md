@@ -1,4 +1,4 @@
-# ![header] Hey, Yuu here!
+# Hey, Yuu here!
 
 I am currently in my college. An active English writer, and a programmer developing Discord Applications, Plugins, and Web development. Not very skilled at design yet, but continuously learning to improve front-end development skills.
 
